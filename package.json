@@ -1,0 +1,22 @@
+{
+  "name": "countries-registry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^4.0.5",
+    "bitcoinjs-message": "^2.2.0",
+    "bluebird": "^3.7.2",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "hex2ascii": "0.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
